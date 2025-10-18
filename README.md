@@ -70,8 +70,8 @@ Results will be written automatically to the `/results` folder.
 
 | Dataset   | Annual Return | Annual Risk | Sharpe Ratio |
 | --------- | ------------- | ----------- | ------------ |
-| **Train** | 0.218         | 0.154       | **1.42**     |
-| **Test**  | 0.0178        | 0.116       | 0.15         |
+| **Train** | 0.218         | 0.154       | 1.42         |
+| **Test**  | 0.178         | 0.116       | 1.53         |
 
 > ⚖️ The GA achieved high in-sample Sharpe ratios and maintained positive out-of-sample performance, demonstrating good generalization.
 
