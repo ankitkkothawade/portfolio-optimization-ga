@@ -24,7 +24,7 @@ All analysis is performed in **R**, leveraging `GA`, `tidyquant`, and `Performan
 2. **Return Computation:** Daily log-returns calculated and split into train (2021-2023) and test (2023-2024).
 3. **GA Optimization:**
 
-   * Fitness Function:*  
+   * Fitness Function:
           *(1 − λ) × Return − λ × Risk* — balancing return and risk.
    * Parameters: population = 50, generations = 100, mutation = 0.2.
 4. **Baselines:** Equal-weight and 100 random portfolios.
