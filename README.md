@@ -119,11 +119,6 @@ portfolio-optimization-ga/
 └── README.md
 ```
 
----
-
-## 📄 License
-
-MIT License © 2025 Ankit Kothawade
 
 ---
 
