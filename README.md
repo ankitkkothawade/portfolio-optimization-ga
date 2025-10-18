@@ -25,7 +25,7 @@ All analysis is performed in **R**, leveraging `GA`, `tidyquant`, and `Performan
 3. **GA Optimization:**
 
    * Fitness Function:
-          *(1 − λ) × Return − λ × Risk* — balancing return and risk.
+          *(1 − λ) × Return − λ × Risk*
    * Parameters: population = 50, generations = 100, mutation = 0.2.
 4. **Baselines:** Equal-weight and 100 random portfolios.
 5. **Lambda Sweep:** λ ∈ {0.2 – 1.0} to observe return–risk trade-offs.
